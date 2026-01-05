@@ -1,0 +1,9 @@
+# Discord bot library
+discord.py>=2.3.2
+
+# Web3 and blockchain interaction
+web3>=6.11.3
+
+# Async HTTP requests for metadata
+aiohttp>=3.9.0
+

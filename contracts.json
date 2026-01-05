@@ -1,0 +1,11 @@
+{
+  "contracts": [
+    {
+      "address": "0x37f4223afd9fca6c6fb24afc8f6ced87de48209e",
+      "name": "OLA Collection",
+      "max_tokens": 100,
+      "token_ids": [0, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+    }
+  ]
+}
+
