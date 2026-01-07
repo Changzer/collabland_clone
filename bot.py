@@ -430,7 +430,7 @@ async def create_verification_message(guild: discord.Guild):
                 # Update existing message
                 embed = discord.Embed(
                     title="🔐 Wallet Verification",
-                    description="Click the button below to verify your wallet and get NFT-based roles.\n\n**All verification is private - only you can see it!**",
+                    description="Click the button below to verify your wallet for OLA Badges and get your OLA LEVEL roles.\n\n**All verification is private - only you can see it!**\n\nPlease use your main wallet where you hold your [OLA Badges](https://olagg.io/mis-tokens), this wallet will be linked to your Discord account!",
                     color=0x5865F2
                 )
                 embed.add_field(
